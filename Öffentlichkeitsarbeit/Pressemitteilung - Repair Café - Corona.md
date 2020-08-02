@@ -14,7 +14,7 @@ Während der Corona Pandemie gibt es einige Besonderheiten zu beachten:
 3. Es muss eine Reparatur-Anmeldung bis Freitag Abend 17 Uhr stattfinden.  
    Kontaktieren Sie uns hierzu per Telefon 05241-2249910 oder per E-Mail info@makerspace-gt.de  
    Sie erhalten dann einen vorläufigen Termin von uns.  
-   Am Tag des Repair Cafés melden wir uns telefonisch bei Ihnen um die Uhrzeit zu bestätigen oder anzupassen.
+   Am Tag des Repair Cafés melden wir uns telefonisch bei Ihnen, wenn sich die Uhrzeit verschiebt.
 
 Logos zur redaktionellen Verwendung finden Sie unter https://git.makerspace-gt.de/makerspace-gt/cooperative-identity/tree/master/Logos
 
