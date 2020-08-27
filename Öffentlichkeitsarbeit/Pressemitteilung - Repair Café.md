@@ -20,4 +20,5 @@ c/o Die Weberei - Bürgerkiez gGmbH
 Bogenstraße 1-8  
 33330 Gütersloh  
 info@makerspace-gt.de  
+05241-2249910  
 Weitere Informationen unter www.makerspace-gt.de
