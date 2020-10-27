@@ -1,0 +1,59 @@
+Laufzettel-UID,Oberkategorie,Unterkategorie,Marke,Gerät/Gegenstand,Baujahr,"Datum Reparaturveranstaltung",Fehlerbeschreibung,"Fehler gefunden?",Reparaturerfolg,"Reparatur: vertagt","Reparatur: nicht erfolgt","Reparatur: Abbruch","Keine Reparatur, weil",Url
+30982,"Elektro Sonstiges",Fön,,Fön,,17.10.2020,"gibt nicht mehr Vollgas
+=&gt; Teilnutzung möglich, nach Reparatur vermutlich Gehäuse defekt",ja,"erfolgreich abgeschlossen",,"Teilnutzung möglich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30980,Unterhaltungselektronik,Walkman,,Walkman,,17.10.2020,"spult nicht
+=&gt; keine Kassette zum testen",ja,"vertagt, weil...","Hilfsmittel oder Zubehör fehlt",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30983,Unterhaltungselektronik,Radiowecker,,Radiowecker,,17.10.2020,"gibt keinen Ton
+=&gt; defektes Bauteil identifiziert, aber zu wenig Zeit",ja,"vertagt, weil...","Hilfsmittel oder Zubehör fehlt",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30984,"Elektro Sonstiges",Spielzeug,,"schwarzer Turm",,17.10.2020,"arbeitet ersten Schritt nicht ab",ja,"vertagt, weil...","Hilfsmittel oder Zubehör fehlt",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30975,Haushaltsgeräte,Staubsauger,Samsung,Staubsaugroboter,,17.10.2020,"saugt so gut wie gar nicht mehr",ja,"vertagt, weil...","Ersatzteilbesorgung durch Besucher",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30985,Haushaltsgeräte,"Reibe, elektrisch",,Rundreibe,,17.10.2020,"Flügelschraube gebrochen
+=&gt; M6x20",ja,"vertagt, weil...","Ersatzteilbesorgung durch Besucher",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30974,Haushaltsgeräte,Staubsauger,Miele,Staubsauger,,17.10.2020,"Wackelkontakt am ein/aus Schalter
+=&gt; Bedienung durch Funk Fernbedienung",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30976,Haushaltsgeräte,Staubsauger,,Staubsauger,,17.10.2020,"geht nicht an
+=&gt; Zuleitung ausgestauscht",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30977,Haushaltsgeräte,Kaffeemaschine,,Kaffeemaschine,,17.10.2020,"Wasser läuft innen runter, nicht vorne
+=&gt; Plastikteile mussten wieder angebracht werden",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30979,"Elektro Sonstiges",Nähmaschine,,Nähmaschine,,17.10.2020,"defekt
+=&gt; Riemen gespannt",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30981,Haushaltsgeräte,Kaffeevollautomat,,Kaffeevollautomat,,17.10.2020,"Milchtank zieht nicht
+=&gt; Handauflegen",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30986,Haushaltsgeräte,"Reibe, elektrisch",,Rundreibe,,17.10.2020,"Saugnapf hält nicht mehr
+=&gt; Auf Wasser benutzen",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30987,"Elektro Sonstiges",Blutdruckmessgerät,,Blutdruckmessgerät,,17.10.2020,"undicht
+=&gt; defektes Schlauchteil abgeschnitten",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30978,"Elektro Sonstiges",Heckenschere,,Heckenschere,,17.10.2020,"kein Ton
+=&gt; Motor defekt",ja,"Abbruch: Gerät darf nicht mehr genutzt werden",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26856,2020-10-17"
+30222,"Elektro Sonstiges",LED-Licht/LED-Leuchte,,LED-Licht,,01.08.2020,"leuchtet nicht mehr",ja,"nicht erfolgt, weil...",,"Ersatzteil nicht erhältlich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30220,Haushaltsgeräte,Bügeleisen,,Dampfbügeleisen,,01.08.2020,"kein Dampf mehr",ja,"nicht erfolgt, weil...",,"Teilnutzung möglich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30221,"Elektro Sonstiges",Elektrorasierer,,Rasierer,,01.08.2020,"Reinigt nicht mehr; muss geöffnet werden um Ersatzteil zu identifizieren",ja,"nicht erfolgt, weil...",,"Teilnutzung möglich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30223,Unterhaltungselektronik,Videorekorder,,Videorekorder,,01.08.2020,"Band verklemmt sich",nein,"nicht erfolgt, weil...",,"Gesamtaufwand zu hoch",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30218,Haushaltsgeräte,Staubsauger,,Staubsauger,,01.08.2020,"Motor defekt",ja,"nicht erfolgt, weil...",,Sonstiges,,"Ersatzteil zu teuer","https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30217,Haushaltsgeräte,Uhr,,Pendeluhr,,01.08.2020,"Mechanik verzogen",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30224,"Elektro Sonstiges",Lampe,,Lampe,,01.08.2020,"Sicherung durchgebrannt",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+30225,Computer,Drucker,,Drucker,,01.08.2020,"Zahnrad gebrochen, mit Sekundenkleber repariert",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=30211,2020-08-01"
+29096,Unterhaltungselektronik,CD-Player,,CD-Spieler,,07.03.2020,"""No Disc""",ja,"nicht erfolgt, weil...",,"Teilnutzung möglich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29098,"Elektro Sonstiges",Wecker,,Wecker,,07.03.2020,"Schalter fehlt",ja,"nicht erfolgt, weil...",,"Teilnutzung möglich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29106,Computer,Laptop,Acer,Laptop,,07.03.2020,"CD-Fach klemmt; Malewarebytes deinstallieren",ja,"nicht erfolgt, weil...",,"Teilnutzung möglich",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29102,Haushaltsgeräte,Munddusche,,Munddusche,,07.03.2020,"Wasserzufuhr abgebrochen aus dem Handgriff",ja,"nicht erfolgt, weil...",,"Gesamtaufwand zu hoch",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29097,Haushaltsgeräte,Wasserkocher,,Wasserkocher,,07.03.2020,"Wasserkocher hat keinen Kontakt",ja,"Abbruch: Gerät darf nicht mehr genutzt werden",,"Gesamtaufwand zu hoch",,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29086,Haushaltsgeräte,Uhr,,Pendeluhr,,07.03.2020,Instandsetzung,ja,"vertagt, weil...","Hilfsmittel oder Zubehör fehlt",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29104,Computer,Drucker,,Laserdrucker,,07.03.2020,"Netzteil defekt",ja,"vertagt, weil...","Ersatzteilbesorgung durch Besucher",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29103,Unterhaltungselektronik,Kassettenrekorder,Pioneer,"CT 777 Kassettendeck",,07.03.2020,Bandsalat,ja,"vertagt, weil...","Ersatzteilbesorgung durch Reparateur",,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29083,Computer,Drucker,,Drucker,,07.03.2020,"Drucker druckt nicht, läuft an, aber zieht die Blätter nicht ein",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29084,"Elektro Sonstiges",Bandsäge,,Bandsäge,,07.03.2020,"Säge, Kondensator defekt",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29085,Unterhaltungselektronik,Lautsprecher(boxen),,Soundbar,,07.03.2020,"Fortsetzung von Februar; Lautsprecher; Kondensator defekt",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29087,Haushaltsgeräte,Staubsauger,,"Miele Staubsauger",,07.03.2020,"saugt nicht, sehr laut",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29088,"Elektro Sonstiges",Aktenvernichter,,Aktenvernichter,,07.03.2020,"Papier steckt fest; Gehäuse auf machen?",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29089,"Elektro Sonstiges",Heckenschere,,Bosch,,07.03.2020,"schneidet nicht mehr",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29090,Computer,Drucker,,Drucker,,07.03.2020,"Papierandruckwalze defekt",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29091,Haushaltsgeräte,Gewürzmühle,,Pfeffermühle,,07.03.2020,"läuft nicht mehr",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29092,"Elektro Sonstiges",Lampe,,Stehlampe,,07.03.2020,"geht nicht",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29093,Computer,Computermaus,,"Logitech Performance MX",,07.03.2020,"Maustaster reagiert nicht immer",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29094,Haushaltsgeräte,Ultraschallreiniger,,Ultraschallreiniger,,07.03.2020,"keine Funktion mehr",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29095,Haushaltsgeräte,Standmixer,WMF,Stanmixer,,07.03.2020,"funktioniert nicht; dreht sich nicht",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29105,"Elektro Sonstiges",Lampe,,Solarlampe,,07.03.2020,"Funktioniert nicht mehr",ja,"erfolgreich abgeschlossen",,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29099,Haushaltsgeräte,Haarschneidemaschine,Babyliss,"Haarschneidemaschine Babyliss PRO",,07.03.2020,"beim Schneiden auseinander gefallen",nein,,,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29100,Computer,Laptop,,Laptop,,07.03.2020,"Bildschirm geht nicht an",nein,,,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
+29101,Haushaltsgeräte,Handmixer,,Handmixer,,07.03.2020,"läuft nicht",nein,,,,,,"https://www.reparatur-initiativen.de/makerspace-gt?event=26852,2020-03-07"
