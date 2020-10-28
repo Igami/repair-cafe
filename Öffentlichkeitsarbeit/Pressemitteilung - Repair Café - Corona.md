@@ -1,6 +1,6 @@
 Sehr geehrte Damen und Herren,
 
-Reparieren statt Wegwerfen: Unter diesem Motto veranstaltet der Makerspace Gütersloh nächste Woche Samstag von 11:00 bis 14:00 ein Repair Café im Digitalen Werkraum der Stadtbibliothek Gütersloh.
+Reparieren statt Wegwerfen: Unter diesem Motto veranstaltet der Makerspace Gütersloh nächste Woche Samstag von 11:00 bis 14:00 Uhr ein Repair Café im Digitalen Werkraum der Stadtbibliothek Gütersloh.
 
 Ehrenamtliche Reparateure unterstützen die Besucher dabei Defekte an mitgebrachten Gebrauchsgegenständen zu untersuchen und im besten Falle gemeinsam zu reparieren. 
 Für verschiedene Bereiche Mechanik, Elektronik und Computer stehen die notwendigen Materialien und Werkzeuge vor Ort bereit.
