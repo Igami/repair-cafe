@@ -2,7 +2,7 @@ Sehr geehrte Damen und Herren,
 
 ## Repair Café am Samstag
 
-**Gütersloh** Der Verein Makerspace veranstaltet am kommenden Samstag, von 11 bis 14 Uhr ein Repair Café in der Stadtbibliothek. Engagierte stehen mit Wissen und Werkzeug bereit um defekte Haushaltsgegenstände zu untersuchen und diese, wenn möglich, gemeinsam zu repariert. Eine Anmeldung ist erforderlich (repair@makerspace-gt.de oder 05241-2249910).
+**Gütersloh** Der Verein Makerspace veranstaltet am kommenden Samstag, von 11 bis 14 Uhr ein Repair Café in der Stadtbibliothek. Engagierte stehen mit Wissen und Werkzeug bereit um defekte Haushaltsgegenstände zu untersuchen und diese, wenn möglich, gemeinsam zu reparieren. Eine Anmeldung ist erforderlich (repair@makerspace-gt.de oder 05241-2249910).
 
 ---
 
